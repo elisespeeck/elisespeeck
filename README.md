@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Currently studying bioscience engineering at University of Antwerp
 
 <!--
 **elisespeeck/elisespeeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
